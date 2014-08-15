@@ -1,0 +1,10 @@
+{
+  "name": "express-api",
+  "version": "0.0.0",
+  "description": "JSON Express-API",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.8.4",
+    "time": "^0.11.0"
+  }
+}
